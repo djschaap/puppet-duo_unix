@@ -1,5 +1,7 @@
 # duo_unix Puppet v3 Module (Dev Status: Inactive)
 
+:exclamation: **This project was archived on 2/20/2018.**
+
 ## Table of Contents
 
 ### [Overview](#overview-1)
@@ -12,8 +14,6 @@
 ## Overview
 
 The duo_unix Puppet module installs and manages duo_unix (`login_duo` or `pam_duo`).
-
-This is longer being actively developed. Duo continues to provide best-effort support for this module.
 
 ## Description
 
